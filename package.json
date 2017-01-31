@@ -24,7 +24,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "hexo-fs": "^0.1.6",
-    "hexo-util": "^0.6.0",
     "marked": "^0.3.6",
     "strip-indent": "^2.0.0"
   }
